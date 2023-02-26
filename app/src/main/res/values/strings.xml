@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="textView_conversion">Select Conversion</string>
+    <string name="textView_input">Input Value</string>
+    <string name="button_convert">Convert</string>
+    <string-array name="conversion">
+        <item>dec > bin</item>
+        <item>dec > hex</item>
+        <item>bin > dec</item>
+        <item>bin > hex</item>
+        <item>hex > dec</item>
+        <item>hex > bin</item>
+    </string-array>
+</resources>
