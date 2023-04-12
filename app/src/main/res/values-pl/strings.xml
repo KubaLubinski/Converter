@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Przelicznik</string>
+    <string name="textView_conversion">Wybierz konwersję</string>
+    <string name="textView_input">Wprowadź liczbę</string>
+    <string name="button_convert">Przelicz</string>
+    <string name="statementTitle">Błąd</string>
+    <string name="statementMessage">Niepoprawna wartość</string>
+    <string name="editText_input">Wprowadź liczbę</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="action_info">Informacja</string>
+    <string name="action_exit">Zakończ</string>
+    <string name="textView_night">Ciemny motyw</string>
+    <string name="textView_theme">Wyświetlanie ciemnego motywu</string>
+</resources>
